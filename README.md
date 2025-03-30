@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prashgayat
+- 👋 Hi, I’m @Prashanth R
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning ML Algos
 - 💞️ I’m looking to collaborate on ML projects
